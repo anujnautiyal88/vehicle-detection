@@ -1,0 +1,38 @@
+<annotation>
+  <folder>vehicle</folder>
+  <filename>vehicle detenction-122.png</filename>
+  <path>vehicle/vehicle detenction-122.png</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1280</width>
+    <height>720</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>CAR</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>686</xmin>
+      <ymin>479</ymin>
+      <xmax>868</xmax>
+      <ymax>596</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>CAR</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>401</xmin>
+      <ymin>405</ymin>
+      <xmax>475</xmax>
+      <ymax>465</ymax>
+    </bndbox>
+  </object>
+</annotation>
